@@ -1,2 +1,3 @@
-# E1-572_Hackintosh
-Just my EFI and stuff for my 2013 laptop Hackintosh
+# Aspire E1-572 Hackintosh
+
+A messy OpenCore Configuration of my laptop's hackintosh
