@@ -22,7 +22,7 @@
 
 ### 🛠️ This configuration is optimized for this specific hardware. 
    * Tested to work only for **MacOS BigSur** `11.7.10`
-   * Additional configuration is needed for MacOS Higher than `BigSur`
+   * OpenCore `0.9.9 Released`
 
 
 
@@ -38,7 +38,7 @@ Modified IO80211 Family
 <details>
 <summary>⚠️ <strong>What's working?</strong></summary><br >
 
-* WORK IN PROGRESS - Nothing to see yet.
+* NOTHING TO SEE HERE YET - LOLOLOL WIP
 </details>
 
 
