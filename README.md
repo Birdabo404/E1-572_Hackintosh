@@ -36,7 +36,7 @@
 ----------------------------
 
 <details>
-<summary>⚠️ <strong>What's working?</strong></summary><br >
+<summary>⚠️ <strong>What's working and whats not?</strong></summary><br >
 
 * NOTHING TO SEE HERE YET - LOLOLOL WIP
 </details>
