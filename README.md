@@ -17,6 +17,7 @@
 - BT/Wi-Fi : Qualcomm QCA9565 / AR9565 Wireless
 - Ethernet : Broadcom NetXtreme BCM57786
 - Touchpad : ElanSh!tTech
+- SMBIOS : MacbookAir7,1 
 ```
 
 ### 🛠️ This configuration is optimized for this specific hardware. 
