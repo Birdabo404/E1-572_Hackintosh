@@ -57,6 +57,8 @@
 - 🍕 Integrated Webcam : Fully working.
 
 - 🍟 Battery : Fully working.
+
+- 🍋 Shutdown/Restart : Fully working. 
 ```
   
 </details>
