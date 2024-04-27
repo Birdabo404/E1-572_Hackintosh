@@ -10,13 +10,14 @@
 `info.md`
 
 ```markdown
-- CPU : Intel Core i3-4010U (Haswell)
+- CPU : Intel® Core™ i3-4010U (Haswell)
 - GPU : Intel HD 4400
 - RAM : 12 GB DDR3 @ 1600MHz
 - Audio : Intel Corporation Haswell-ULT
 - BT/Wi-Fi : Qualcomm QCA9565 / AR9565 Wireless
 - Ethernet : Broadcom NetXtreme BCM57786
 - Touchpad : ElanSh!tTech
+- SMBIOS : MacbookAir7,1 
 ```
 
 ### 🛠️ This configuration is optimized for this specific hardware. 
@@ -38,12 +39,36 @@
 <details>
 <summary>⚠️ <strong>What's working and whats not?</strong></summary><br >
 
-* NOTHING TO SEE HERE YET - LOLOLOL WIP
+## Working
+```markdown
+- 🍱 Wifi : The wifi icon on the menu bar is stucked on 1 bar ;-; kext limitation Otherwise Full Working.
+
+- 🍙 GPU : Graphic Acceleration is Fully Working.
+
+- 🍞 Sleep : Working but needs keyboard interruption.
+
+- 🍵 iServices :(iMessage, Facetime, iCloud)
+
+- 🍣 Touchpad : Works but a little wonky with multi-touch, no idea why.
+
+- 🍫 Audio : Output isn't working (could be faulty hardware) but Working with headphones.
+
+- 🍤 USB ports - Fully working.
+
+- 🍕 Integrated Webcam : Fully working.
+
+- 🍟 Battery : Fully working.
+
+- 🍋 Shutdown/Restart : Fully working. 
+```
+  
 </details>
+
+## Preview
 
 <img src="https://github.com/Birdabo404/E1-572_Hackintosh/blob/main/Images/AboutThisMacSS.png">
 
 ## Credits
-- [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
-- [CorpNewt](https://github.com/corpnewt/SSDTTime)
-- [UnitedAstronomer](https://github.com/unitedastronomer)
+- [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html) - The Tutorial
+- [CorpNewt](https://github.com/corpnewt/SSDTTime) - The Legend
+- [UnitedAstronomer](https://github.com/unitedastronomer) - BIG THANKS 
