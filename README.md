@@ -23,18 +23,6 @@
 ### 🛠️ This configuration is optimized for this specific hardware. 
    * Tested to work only for **MacOS BigSur** `11.7.10`
    * OpenCore `0.9.9 Released`
-  
-## Guides
-
-[Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
-
-[Modified IO80211 Family](https://www.insanelymac.com/forum/files/file/1008-io80211family-modif/)
-
-[Tonymacx86](https://www.tonymacx86.com/threads/guide-kext-elan-elantech-ps-2-kext.300285/)
-
-[Still Work In Progress - more to add]
-
-----------------------------
 
 <details>
 <summary>⚠️ <strong>What's working and whats not?</strong></summary><br >
@@ -66,7 +54,20 @@
 
 ## Preview
 
-<img src="https://github.com/Birdabo404/E1-572_Hackintosh/blob/main/Images/AboutThisMacSS.png">
+<img src="https://github.com/Birdabo404/E1-572_Hackintosh/blob/main/Screenshots/AboutThisMacSS.png">
+
+  
+## Guides
+
+[Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
+
+[Modified IO80211 Family](https://www.insanelymac.com/forum/files/file/1008-io80211family-modif/)
+
+[Tonymacx86](https://www.tonymacx86.com/threads/guide-kext-elan-elantech-ps-2-kext.300285/)
+
+[Still Work In Progress - more to add]
+
+----------------------------
 
 ## Credits
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html) - The Tutorial
