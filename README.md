@@ -7,34 +7,31 @@
 
 ## 💻 Specifications
 
+`info.md`
 
-- CPU : Intel Core i3-4010U @ 1.7 GHz (2C/4T) (Haswell)
-- GPU : Intel HD 4400 Mobile (VBIOS date : 01/11/13)
+```markdown
+- CPU : Intel Core i3-4010U (Haswell)
+- GPU : Intel HD 4400
 - RAM : 12 GB DDR3 @ 1600MHz
-- Display : Inbuilt Screen (1366x768 @ 60 Hz)
-- Audio Codec : Intel Corporation Haswell-ULT
-- BT/Wi-Fi : Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter (rev 01)
-- Ethernet : Broadcom INc. NetXtreme BCM57786 Gigabyte Ethernet PCIe
-- Touchpad : Something Elantech 
-- OpenCore : Version 0.9.9 Release
-- SMBIOS : MacBookAir7,1
+- Audio : Intel Corporation Haswell-ULT
+- BT/Wi-Fi : Qualcomm QCA9565 / AR9565 Wireless
+- Ethernet : Broadcom NetXtreme BCM57786
+- Touchpad : ElanSh!tTech
+```
 
 ### 🛠️ This configuration is optimized for this specific hardware. 
    * Tested to work only for **MacOS BigSur** `11.7.10`
    * OpenCore `0.9.9 Released`
-
-
-
   
-## Guides I used
+## Guides
 
 [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
 
-Modified IO80211 Family
+[Modified IO80211 Family](https://www.insanelymac.com/forum/files/file/1008-io80211family-modif/)
 
 [Tonymacx86](https://www.tonymacx86.com/threads/guide-kext-elan-elantech-ps-2-kext.300285/)
 
-[ Still Work In Progress - more to add]
+[Still Work In Progress - more to add]
 
 ----------------------------
 
@@ -44,5 +41,9 @@ Modified IO80211 Family
 * NOTHING TO SEE HERE YET - LOLOLOL WIP
 </details>
 
-
 <img src="https://github.com/Birdabo404/E1-572_Hackintosh/blob/main/Images/Hackintosh.png" width="720" height="480">
+
+## Credits
+- [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
+- [CorpNewt](https://github.com/corpnewt/SSDTTime)
+- [UnitedAstronomer](https://github.com/unitedastronomer)
