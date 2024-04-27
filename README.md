@@ -41,7 +41,7 @@
 * NOTHING TO SEE HERE YET - LOLOLOL WIP
 </details>
 
-<img src="https://github.com/Birdabo404/E1-572_Hackintosh/blob/main/Images/Hackintosh.png" width="720" height="480">
+<img src="https://github.com/Birdabo404/E1-572_Hackintosh/blob/main/Images/AboutThisMacSS.png">
 
 ## Credits
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
