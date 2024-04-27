@@ -38,12 +38,34 @@
 <details>
 <summary>⚠️ <strong>What's working and whats not?</strong></summary><br >
 
-* NOTHING TO SEE HERE YET - LOLOLOL WIP
+## Working
+```markdown
+- 🍱 Wifi : The wifi icon on the menu bar is stucked on 1 bar ;-; kext limitation Otherwise Full Working.
+
+- 🍙 GPU : Graphic Acceleration is Fully Working.
+
+- 🍞 Sleep : Working but needs keyboard interruption.
+
+- 🍵 iServices :(iMessage, Facetime, iCloud)
+
+- 🍣 Touchpad : Works but a little wonky with multi-touch, no idea why.
+
+- 🍫 Audio : Output isn't working (could be faulty hardware) but Working with headphones.
+
+- 🍤 USB ports - Fully working.
+
+- 🍕 Integrated Webcam : Fully working.
+
+- 🍟 Battery : Fully working.
+```
+  
 </details>
+
+## Preview
 
 <img src="https://github.com/Birdabo404/E1-572_Hackintosh/blob/main/Images/AboutThisMacSS.png">
 
 ## Credits
-- [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
-- [CorpNewt](https://github.com/corpnewt/SSDTTime)
-- [UnitedAstronomer](https://github.com/unitedastronomer)
+- [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html) - The Tutorial
+- [CorpNewt](https://github.com/corpnewt/SSDTTime) - The Legend
+- [UnitedAstronomer](https://github.com/unitedastronomer) - BIG THANKS 
