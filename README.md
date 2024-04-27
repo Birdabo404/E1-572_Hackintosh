@@ -10,7 +10,7 @@
 `info.md`
 
 ```markdown
-- CPU : Intel Core i3-4010U (Haswell)
+- CPU : Intel® Core™ i3-4010U (Haswell)
 - GPU : Intel HD 4400
 - RAM : 12 GB DDR3 @ 1600MHz
 - Audio : Intel Corporation Haswell-ULT
