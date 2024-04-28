@@ -54,6 +54,8 @@
 
 ## Preview
 
+<img src="https://github.com/Birdabo404/E1-572_Hackintosh/blob/main/Screenshots/Screen%20Shot%202024-04-28%20at%206.30.23%20PM.png">
+<img src="https://github.com/Birdabo404/E1-572_Hackintosh/blob/main/Screenshots/Neofetch.png">
 <img src="https://github.com/Birdabo404/E1-572_Hackintosh/blob/main/Screenshots/AboutThisMacSS.png">
 
   
