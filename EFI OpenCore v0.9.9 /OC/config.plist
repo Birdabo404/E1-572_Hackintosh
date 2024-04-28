@@ -1467,23 +1467,23 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C026072004NG90FAD</string>
+			<string>C02608401GUGF2C1H</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
 			<data>
-			fAGRbOGA
+			mAGnYJzJ
 			</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Upgradable</string>
 			<key>SystemProductName</key>
-			<string>MacBookAir7,1</string>
+			<string>MacBookPro11,5</string>
 			<key>SystemSerialNumber</key>
-			<string>C02R80PRGFWK</string>
+			<string>C02R90GLG85Y</string>
 			<key>SystemUUID</key>
-			<string>3C726150-0C40-4226-BFF3-C87976C646AB</string>
+			<string>9ADD8A39-D902-45DA-BF9A-BBBE1059A0B3</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
