@@ -21,7 +21,7 @@
 ```
 
 ### 🛠️ This configuration is optimized for this specific hardware. 
-   * Tested to work only for **MacOS BigSur** `11.7.10`
+   * Tested and FULLY working with **MacOS BigSur** `11.7.10`
    * OpenCore `0.9.9 Released`
 
 <details>
@@ -29,7 +29,7 @@
 
 ## Working
 ```markdown
-- 🍱 Wifi : The wifi icon on the menu bar is stucked on 1 bar ;-; kext limitation Otherwise Full Working.
+- 🍱 Wifi : The wifi icon on the menu bar is stucked on 1 bar ;-; kext limitation, Otherwise Fully Working.
 
 - 🍙 GPU : Graphic Acceleration is Fully Working.
 
