@@ -690,7 +690,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/ATH9KFixup</string>
 				<key>MaxKernel</key>
