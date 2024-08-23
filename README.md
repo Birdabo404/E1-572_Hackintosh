@@ -71,6 +71,8 @@
 
 ----------------------------
 
+## This project is now Out of Date.
+
 ## Credits
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html) - The Tutorial
 - [CorpNewt](https://github.com/corpnewt/SSDTTime) - The Legend
